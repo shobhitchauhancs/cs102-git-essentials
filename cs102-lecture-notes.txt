@@ -11,4 +11,8 @@ Git commands I learned so far ...
   This sends the committed changes to the remote repository at server.
 
 Markdown 
-Markdown is a lightweight markup language that can be used to add formatting elements to plaintext text documents. These can be used to create websites, documents, notes, books, presentations, email messages, and technical documentations. Markdown provides structure to a document according to which it is to be displayed. It is being used by several web interfaces like Wikipedia , GitHub etc. Markdown files are saved with extension .md or .markdown. We can easily read them using commonly used text editors. These files can be converted to other formats like HTML. Markdown is fast to learn and has high productivity and saves time.
+Markdown is a lightweight markup language that can be used to add formatting elements to plaintext text documents. 
+These can be used to create websites, documents, notes, books, presentations, email messages, and technical documentations. 
+Markdown provides structure to a document according to which it is to be displayed. It is being used by several web interfaces like Wikipedia , GitHub etc. 
+Markdown files are saved with extension .md or .markdown. We can easily read them using commonly used text editors. 
+These files can be converted to other formats like HTML. Markdown is fast to learn and has high productivity and saves time.
