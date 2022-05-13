@@ -1,0 +1,11 @@
+Git commands I learned so far ...
+1.git status
+  It checks and shows the current status of working tree with staged area and gives a list of files to be staged and committed.
+2.git add
+  It adds files to the staging area.
+3.git commit
+  This command saves the files in version tracking system.
+4.git clone
+  This command is used to obtain a repository from an existing URL.
+5.git push
+  This sends the committed changes to the remote repository at server.
